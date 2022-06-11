@@ -20,5 +20,6 @@ I'm **Mohammed**
 ### My GitHub Stats
 ![MohammedMMc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedMMC&count_private=true&show_icons=true&theme=tokyonight)
 
-### My GitHub Stats
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMMC&layout=compact&theme=tokyonight)
+
+<a href="https://skyline.github.com/MohammedMMC/2022">More Stats?</a>
