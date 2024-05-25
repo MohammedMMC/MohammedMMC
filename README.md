@@ -15,14 +15,9 @@ I am passionate about expanding my knowledge and skills, and I am always eager t
 
 
 # 📊 GitHub Stats:
-<div style="text-align: center;">
-
 ![](https://github-readme-stats.vercel.app/api?username=MohammedMMC&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MohammedMMC&theme=blueberry&hide_border=false)
-<br>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMMC&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MohammedMMC&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
