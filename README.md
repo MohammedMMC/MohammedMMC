@@ -5,6 +5,7 @@
 💻 Mid-Senior Full-Stack developer <br>
 ♟️ Chess Enthusiast <br>
 🛠️ Hardware Aficionado (Arduino, ESP, RPI) <br>
+🎨 PCB, 3D, Websites and Apps Designer <br>
 ✨ My mbti type is **`IXTJ`** <br>
 📫 How to reach me: [mohammed5mmc@google.com](mailto:mohammed5mmc@google.com)
 
