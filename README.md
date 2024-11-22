@@ -4,6 +4,7 @@
 🏫 High School Student <br>
 💻 Mid-Senior Full-Stack developer <br>
 ♟️ Chess Enthusiast <br>
+🤸🏻 Calisthenics athlete <br>
 🛠️ Hardware Aficionado (Arduino, ESP, RPI) <br>
 🎨 PCB, 3D, Websites and Apps Designer <br>
 ✨ My mbti type is **`IXTJ`** <br>
