@@ -24,11 +24,11 @@ I am passionate about expanding my knowledge and skills, and I am always eager t
 *Note: The information displayed here does not include my repositories in organizations. 😔*
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MohammedMMC&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MohammedMMC&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 *Note: The information displayed here does not include my repositories in organizations. 😔*
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark&border=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MohammedMMC&limit=5&theme=algolia&combine_all_yearly_contributions=true)
