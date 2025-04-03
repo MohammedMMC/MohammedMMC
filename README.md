@@ -27,12 +27,6 @@ I am passionate about expanding my knowledge and skills, and I am always eager t
 ![](https://github-profile-trophy.vercel.app/?username=MohammedMMC&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 *Note: The information displayed here does not include my repositories in organizations. 😔*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MohammedMMC&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
 ---
 ![Github Views](https://visitcount.itsvg.in/api?id=MohammedMMC&icon=0&color=0)
 ![GitHub Followers](https://img.shields.io/github/followers/MohammedMMC?style=flat&label=Profile%20Followers&labelColor=962d4e&color=ec4b7b&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIDYuNS4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlL2ZyZWUgQ29weXJpZ2h0IDIwMjQgRm9udGljb25zLCBJbmMuLS0+PHBhdGggZmlsbD0iI2VjNGI3YiIgZD0iTTQ3LjYgMzAwLjRMMjI4LjMgNDY5LjFjNy41IDcgMTcuNCAxMC45IDI3LjcgMTAuOXMyMC4yLTMuOSAyNy43LTEwLjlMNDY0LjQgMzAwLjRjMzAuNC0yOC4zIDQ3LjYtNjggNDcuNi0xMDkuNXYtNS44YzAtNjkuOS01MC41LTEyOS41LTExOS40LTE0MUMzNDcgMzYuNSAzMDAuNiA1MS40IDI2OCA4NEwyNTYgOTYgMjQ0IDg0Yy0zMi42LTMyLjYtNzktNDcuNS0xMjQuNi0zOS45QzUwLjUgNTUuNiAwIDExNS4yIDAgMTg1LjF2NS44YzAgNDEuNSAxNy4yIDgxLjIgNDcuNiAxMDkuNXoiLz48L3N2Zz4=)
