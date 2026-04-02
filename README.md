@@ -2,7 +2,7 @@
 ~ **Hi there 👋** <br>
 🤓 I'm **Mohamed Mahmodi** <br>
 🏫 High School Student <br>
-💻 Mid-Senior Full-Stack developer <br>
+💻 Senior Full-Stack developer <br>
 ♟️ Chess Enthusiast <br>
 🤸🏻 Calisthenics athlete <br>
 🛠️ Hardware Aficionado (Arduino, ESP, RPI) <br>
