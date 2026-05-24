@@ -1,7 +1,7 @@
 # 💫 About Me:
 ~ **Hi there 👋** <br>
 🤓 I'm **Mohamed Mahmodi** <br>
-🏫 High School Student <br>
+🏫 University Student <br>
 💻 Senior Full-Stack developer <br>
 ♟️ Chess Enthusiast <br>
 🤸🏻 Calisthenics athlete <br>
